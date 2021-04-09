@@ -26,8 +26,6 @@ namespace Arrays
                 }
                 Console.WriteLine();
             }
-
-            System.Console.WriteLine(vehikles);
         }
     
     }
